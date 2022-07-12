@@ -2,13 +2,11 @@
 avatar distorted
 avatar proportioned
 */
-.avatar{
-    width: 200px;
-}
 .avatar.proportioned{
     width: 300px;
     height: auto;
 }
 .avatar.distorted{
     height: 400px;
+	width: 200px;
 }
